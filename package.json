@@ -2,7 +2,7 @@
   "name": "flemeramc-launcher",
   "version": "1.0.1",
   "productName": "FlemeraMC Launcher",
-  "description": "Flemera Minecraft Launcher",
+  "description": "A custom launcher for Flemera's modded Minecraft servers, automatically installing the correct version, mods, and configurations for one-click play.",
   "author": "Flemera (https://github.com/flemera/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/flemera/FlemeraMC-Launcher",

@@ -2,26 +2,29 @@
 
 <h1 align="center">FlemeraMC Launcher</h1>
 
-><p align="center">This launcher has been forked from <a href="https://github.com/dscalzi/HeliosLauncher">HeliosLauncher</a>. All credits to them!</p>
+FlemeraMC Launcher is the custom launcher for **Flemera’s modded Minecraft servers**.  
+It automatically installs the correct Minecraft version, modpacks, configurations, and Java if needed — allowing players to join with **a single click**.
+
+No manual setup, no mod troubleshooting, no mismatch errors — the launcher handles everything.
+
+> <p align="center">Originally forked from <a href="https://github.com/dscalzi/HeliosLauncher">HeliosLauncher</a>. Huge thanks to the original developers!</p>
 
 ----
 
-## Download the Launcher
+## 🚀 Download the Launcher
 
-**Latest Release**
+### **Latest Stable Release**
 
 [![](https://img.shields.io/github/release/Flemera/FlemeraMC-Launcher.svg?style=flat-square)](https://github.com/Flemera/FlemeraMC-Launcher/releases/latest)
 
-**Latest Pre-release**
+### **Latest Pre-release**
 
 [![](https://img.shields.io/github/release/Flemera/FlemeraMC-Launcher.svg?style=flat-square)](https://github.com/Flemera/FlemeraMC-Launcher/releases)
 
+Download the installer for your platform from the **Releases** page:
 
-
-From the [Releases](https://github.com/Flemera/FlemeraMC-Launcher/releases) tab, select the right platform installer for your system.
-
-| Platform | File |
-| -------- | ---- |
+| Platform | Installer |
+| -------- | --------- |
 | Windows x64 | `FlemeraMC-Launcher-setup-VERSION.exe` |
 | macOS x64 | `FlemeraMC-Launcher-setup-VERSION-x64.dmg` |
 | macOS arm64 | `FlemeraMC-Launcher-setup-VERSION-arm64.dmg` |
@@ -29,8 +32,71 @@ From the [Releases](https://github.com/Flemera/FlemeraMC-Launcher/releases) tab,
 
 ----
 
-## Resources
+## 📚 Getting Help
 
-For bugs and feature requests, please use [Github Issues](https://github.com/Flemera/FlemeraMC-Launcher/issues).
+If you encounter issues or want to request features:
 
-Or you can use our [Discord](https://discord.gg/vuPKgcHhUX) to get support, bugs, features requests, or be part of the community.
+- **[GitHub Issues](https://github.com/Flemera/FlemeraMC-Launcher/issues)**
+- **[Discord Community](https://discord.gg/vuPKgcHhUX)**
+
+Bug reports, suggestions, and community contributions are welcome!
+
+----
+
+## 📦 Build From Source
+
+If you want to build the FlemeraMC Launcher yourself:
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Flemera/FlemeraMC-Launcher.git
+cd FlemeraMC-Launcher
+```
+
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Build the launcher
+
+```bash
+npm run dist
+```
+
+The compiled installers will be generated inside the `dist/` directory.
+
+> #### ⚠️ Important Note
+>FlemeraMC Launcher is a fork tailored for Flemera’s modded servers. If you want to build your own standalone launcher, you should start from the upstream base project, not this fork. Use the original repository : [dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher)
+
+----
+
+## 🤝 Contributing
+
+Contributions are welcome — bug fixes, improvements, or features that benefit FlemeraMC users.
+
+> **Before contributing, please note:**
+>- This repository is not the primary upstream launcher
+>- It contains Flemera-specific configuration and changes
+>- Features unrelated to FlemeraMC may not be accepted
+>- If your goal is to create your own launcher, fork [HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) instead
+
+### How to contribute
+
+1. **Fork** this repository
+
+2. Create a **feature branch**
+
+```bash
+git checkout -b feature/my-feature
+```
+
+3. Make your changes and **commit** them
+
+4. **Push** your branch
+
+5. Open a **Pull Request**
+
+We appreciate all meaningful contributions that help improve the FlemeraMC experience!
