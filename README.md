@@ -2,8 +2,8 @@
 
 <h1 align="center">FlemeraMC Launcher</h1>
 
-FlemeraMC Launcher is the custom launcher for **Flemera’s modded Minecraft servers**.  
-It automatically installs the correct Minecraft version, modpacks, configurations, and Java if needed — allowing players to join with **a single click**.
+<p align="center">FlemeraMC Launcher is the custom launcher for <b>Flemera’s modded Minecraft servers</b>.</p>
+<p align="center">It automatically installs the correct Minecraft version, modpacks, configurations, and Java — allowing players to join with <b>a single click</b>.</p>
 
 > <p align="center">Originally forked from <a href="https://github.com/dscalzi/HeliosLauncher">HeliosLauncher</a>. Huge thanks to the original developers!</p>
 
