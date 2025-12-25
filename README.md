@@ -6,7 +6,7 @@
 
 ----
 
-#### Download the Launcher
+## Download the Launcher
 
 **Latest Release**
 
