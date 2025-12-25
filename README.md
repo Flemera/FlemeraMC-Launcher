@@ -68,7 +68,7 @@ npm run dist
 
 The compiled installers will be generated inside the `dist/` directory.
 
-> #### ⚠️ Important Note
+> **⚠️ Important Note**<br>
 >FlemeraMC Launcher is a fork tailored for Flemera’s modded servers. If you want to build your own standalone launcher, you should start from the upstream base project, not this fork. Use the original repository : [dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher)
 
 ----
