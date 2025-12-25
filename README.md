@@ -98,3 +98,9 @@ git checkout -b feature/my-feature
 5. Open a **Pull Request**
 
 We appreciate all meaningful contributions that help improve the FlemeraMC experience!
+
+---
+
+<div align="center">
+  ❤️ Powered by <a href="https://hexoraw.com"><b>Hexoraw</b></a> — built for players, by players
+</div>
