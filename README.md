@@ -6,11 +6,11 @@
 
 #### Download the Latest Release
 
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://github.com/Flemera/FlemeraMC-Launcher/releases/latest)
+Press this button to download the latest release of FlemeraMC Launcher.
 
-**Supported Platforms**
+[![](https://img.shields.io/github/release/Flemera/FlemeraMC-Launcher.svg?style=flat-square)](https://github.com/Flemera/FlemeraMC-Launcher/releases/latest)
 
-If you download from the [Releases](https://github.com/Flemera/FlemeraMC-Launcher/releases) tab, select the installer for your system.
+From the [Releases](https://github.com/Flemera/FlemeraMC-Launcher/releases) tab, select the right platform installer for your system.
 
 | Platform | File |
 | -------- | ---- |
