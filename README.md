@@ -2,13 +2,21 @@
 
 <h1 align="center">FlemeraMC Launcher</h1>
 
-<h4 align="center">This launcher has been made from <a href="https://github.com/dscalzi/HeliosLauncher">HeliosLauncher</a>. Thanks to them!</h4>
+><p align="center">This launcher has been forked from <a href="https://github.com/dscalzi/HeliosLauncher">HeliosLauncher</a>. All credits to them!</p>
 
-#### Download the Latest Release
+----
 
-Press this button to download the latest release of FlemeraMC Launcher.
+#### Download the Launcher
+
+**Latest Release**
 
 [![](https://img.shields.io/github/release/Flemera/FlemeraMC-Launcher.svg?style=flat-square)](https://github.com/Flemera/FlemeraMC-Launcher/releases/latest)
+
+**Latest Pre-release**
+
+[![](https://img.shields.io/github/release/Flemera/FlemeraMC-Launcher.svg?style=flat-square)](https://github.com/Flemera/FlemeraMC-Launcher/releases)
+
+
 
 From the [Releases](https://github.com/Flemera/FlemeraMC-Launcher/releases) tab, select the right platform installer for your system.
 
@@ -19,6 +27,10 @@ From the [Releases](https://github.com/Flemera/FlemeraMC-Launcher/releases) tab,
 | macOS arm64 | `FlemeraMC-Launcher-setup-VERSION-arm64.dmg` |
 | Linux x64 | `FlemeraMC-Launcher-setup-VERSION.AppImage` |
 
+----
+
 ## Resources
 
-The best way to contact the support is on [Discord](https://discord.gg/vuPKgcHhUX).
+For bugs and feature requests, please use [Github Issues](https://github.com/Flemera/FlemeraMC-Launcher/issues).
+
+Or you can use our [Discord](https://discord.gg/vuPKgcHhUX) to get support, bugs, features requests, or be part of the community.
